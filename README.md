@@ -1,12 +1,36 @@
-# React + Vite
+# Duda Arte - Site Front-End
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto desenvolvido para o trabalho de faculdade de Programação Front-End, usando React com Vite.  
+O site é inspirado no site da Duda Arte, com layout responsivo, formulário de contato validado e navegação entre páginas.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologias Utilizadas
 
-## Expanding the ESLint configuration
+- React
+- Vite
+- React Router DOM
+- CSS personalizado
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Funcionalidades
+
+- Navegação entre páginas: Home, Sobre a Duda, Podologia, Estética Avançada e Contato  
+- Formulário de contato com validação em tempo real e confirmação de envio  
+- Layout responsivo para dispositivos móveis e desktops  
+- Menu de navegação fixo e funcional  
+
+---
+
+## Informações sobre a Marca
+
+A marca "Duda Arte" pertence a Edoirda "Duda" Nordt.  
+Eu, Edgar Nordt Ferreira, esposo dela, utilizei a marca e identidade visuais dela para desenvolver este projeto.
+
+---
+
+## Autor
+
+Edgar Nordt Ferreira  
+Desenvolvedor Front-End
