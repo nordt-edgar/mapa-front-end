@@ -1,13 +1,16 @@
+// src/App.jsx
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Header from './components/Header'
 import Nav from './components/Nav'
 import Footer from './components/Footer'
 
+// (Páginas)
 function App() {
   return (
-    <BrowserRouter basename="/mapa-froont-end">
+    <BrowserRouter basename="/mapa-front-end">
       <Header />
       <Nav />
+
       <main className="main">
         <div className="container">
           <Routes>
@@ -19,6 +22,7 @@ function App() {
           </Routes>
         </div>
       </main>
+
       <Footer />
     </BrowserRouter>
   )
